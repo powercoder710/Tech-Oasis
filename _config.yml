@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
-github_username: fastai
+title: TECH OASIS BLOG
+description: A blog to document my learnings on AI.
+github_username: TECH OASIS
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "fastpages"
 
